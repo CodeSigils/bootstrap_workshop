@@ -9,7 +9,7 @@ body > h1 {
     background-size:cover;
 }
 header h1 {
-    color: #fff;
+    color: #fff !important;
     text-shadow:2px 2px 3px rgba(0,0,0,.5);
 }
 
