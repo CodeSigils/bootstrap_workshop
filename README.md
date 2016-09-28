@@ -5,4 +5,4 @@ These are the files for the Thinkful Bootstrap workshop. The starter files can b
 
 - [12 Time-Saving Bootstrap Examples](http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/)
 
--[advanced bootstrap layout](http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/)
+- [advanced bootstrap layout](http://developer.telerik.com/featured/leveling-up-your-app-with-advanced-bootstrap-features/)
